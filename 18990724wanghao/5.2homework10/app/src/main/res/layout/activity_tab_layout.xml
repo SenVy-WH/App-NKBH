@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".TabLayoutActivity">
 
-
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/tl_head"
         android:layout_width="0dp"
